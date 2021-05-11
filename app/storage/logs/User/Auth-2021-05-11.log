@@ -1,0 +1,56 @@
+[2021-05-11 00:47:26] production.DEBUG: array (
+  'Request' => 
+  array (
+    'ID' => 1147,
+    'Description' => '747512',
+    'IPAddress' => '10.12.52.217',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => 'OK',
+    'IPAddress' => NULL,
+  ),
+)  
+[2021-05-11 00:52:30] production.DEBUG: array (
+  'Request' => 
+  array (
+    'ID' => 1147,
+    'Description' => '126045',
+    'IPAddress' => '10.12.52.217',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => 'OK',
+    'IPAddress' => NULL,
+  ),
+)  
+[2021-05-11 01:05:48] production.DEBUG: array (
+  'Request' => 
+  array (
+    'ID' => 1147,
+    'Description' => '919362',
+    'IPAddress' => '10.12.52.217',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => 'OK',
+    'IPAddress' => NULL,
+  ),
+)  
+[2021-05-11 01:07:39] production.DEBUG: array (
+  'Request' => 
+  array (
+    'ID' => 1147,
+    'Description' => '209826',
+    'IPAddress' => '10.12.52.217',
+  ),
+  'Response' => 
+  array (
+    'ID' => 0,
+    'Description' => 'OK',
+    'IPAddress' => NULL,
+  ),
+)  
